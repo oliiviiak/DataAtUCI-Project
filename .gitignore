@@ -1,0 +1,15 @@
+# Python environment
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# MacOS hidden files
+.DS_Store
